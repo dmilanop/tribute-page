@@ -1,0 +1,43 @@
+.body{
+    background-color: black;
+}
+
+.div-title{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.div-paragraph{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.div-carousel{
+    display: flex;
+    justify-content: center;
+}
+
+.div-card{
+    background-color: black;
+}
+
+.title{
+    width: 400px;
+    height: 200px;
+}
+
+.image{
+    width: auto;
+    height: auto;
+}
+
+.paragraph{
+    color: white;
+}
+
+.image-1{
+    width: 286px;
+    height: 285.8px;
+}
